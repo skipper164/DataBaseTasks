@@ -1,0 +1,5 @@
+
+select distinct WarehouseID
+
+from inventory;
+

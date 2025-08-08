@@ -1,0 +1,5 @@
+
+select WarehouseID
+
+from inventory;
+

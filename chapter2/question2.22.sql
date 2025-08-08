@@ -1,0 +1,5 @@
+
+select distinct *
+
+from inventory;
+
